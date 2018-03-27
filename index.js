@@ -17,4 +17,8 @@ function updateObjectWithKeyAndValue(object, key, value)
    
 }
 
-function 
+function  deleteFromObjectByKey(object, key) 
+{
+  
+  
+}
