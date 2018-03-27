@@ -1,4 +1,6 @@
-var recipes = {}
+//var recipes = {}
+
+var object = {}
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value)
 {
