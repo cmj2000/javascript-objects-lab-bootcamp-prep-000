@@ -12,7 +12,7 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value)
 function updateObjectWithKeyAndValue(object, key, value)
 {
   
-   newObj = Object.assign({}, object)
-  return newObj
+  return newObj = Object.assign({}, object);
+   
    
 }
