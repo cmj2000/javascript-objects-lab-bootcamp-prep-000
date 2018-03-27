@@ -13,6 +13,6 @@ function updateObjectWithKeyAndValue(object, key, value)
 {
   
 //  return var newObj = Object.assign({}, object);
-   
+     return Object.assign({}, obj, { [key]: value })
    
 }
